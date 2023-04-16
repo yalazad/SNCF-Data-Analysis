@@ -1,0 +1,7 @@
+# SNCF-Data-Analysis
+This analysis was inspired by a project done by MAOR12 on Kaggle.
+The dataset is quite detailed containing information about delays & cancellations of trains between 2018-2022.
+During this period the data was impacted by the pandemic and frequent striking by SNCF employees against government pension reforms.
+
+The dataset was obtained from the following link:
+https://ressources.data.sncf.com/explore/dataset/regularite-mensuelle-tgv-aqst/export/?sort=nombre_de_trains_annules&q=gare&dataChart=eyJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJzcGxpbmUiLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJleHRlcm5lcyIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiNhNmQ4NTQifV0sInhBeGlzIjoicGVyaW9kZSIsIm1heHBvaW50cyI6IiIsInRpbWVzY2FsZSI6Im1vbnRoIiwic29ydCI6IiIsImNvbmZpZyI6eyJkYXRhc2V0IjoicmVndWxhcml0ZS1tZW5zdWVsbGUtdGd2LWFxc3QiLCJvcHRpb25zIjp7InNvcnQiOiJub21icmVfZGVfdHJhaW5zX2FubnVsZXMifX19XSwidGltZXNjYWxlIjoiIiwiZGlzcGxheUxlZ2VuZCI6dHJ1ZSwiYWxpZ25Nb250aCI6dHJ1ZX0%3D
